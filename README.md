@@ -1,4 +1,4 @@
-# maining Releases
+# Mastering Releases
 
 Repository for the "maining releases" article, examples and schemas.
 
