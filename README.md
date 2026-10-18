@@ -1,4 +1,4 @@
-# Mastering Releases
+# Release Convention
 
 Repository for the "maining releases" article, examples and schemas.
 
